@@ -36,4 +36,4 @@ Pipeline for eligible passes and players ![Pipeline](visuals/pipeline_pass_playe
 Decision process for categorizing players ![Category](visuals/player_category.png) 
 
 
-Correlation: 
+Correlation matrix of offensive midfielders: ![Correlation](visuals/correlation.png) 
